@@ -46,8 +46,7 @@ cd credit-card-fraud-detection
 pip install -r requirements.txt
 ```
 
-> You can create `requirements.txt` with major libraries like:
-> ```
+```
 > pandas
 > numpy
 > scikit-learn
@@ -55,19 +54,11 @@ pip install -r requirements.txt
 > tensorflow
 > matplotlib
 > seaborn
-> ```
 
-3. **Run the models**:
-
-- To run XGBoost model:
-```bash
-python fraud_detection_xgboost.py
 ```
 
-- To run Neural Network model:
-```bash
-python fraud_detection_nn.py
-```
+
+
 
 ## 📊 Dataset Used
 
