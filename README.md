@@ -29,8 +29,8 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 ```
 credit-card-fraud-detection/
-├── fraud_detection_xgboost.py        # XGBoost model implementation
-├── fraud_detection_nn.py             # Neural Network model using Keras/TensorFlow
+├── credit_fraud.py        # XGBoost model implementation
+├── model_building.py             # Neural Network model using Keras/TensorFlow
 └── README.md                         # Project documentation
 ```
 
@@ -83,8 +83,8 @@ The project uses the [Kaggle Credit Card Fraud Detection dataset](https://www.ka
 
 | Model              | Accuracy | Precision | Recall | F1 Score |
 |-------------------|----------|-----------|--------|----------|
-| XGBoost Classifier| 99.2%    | 88.1%     | 82.6%  | 85.2%    |
-| Neural Network     | 98.6%    | 85.7%     | 79.3%  | 82.3%    |
+| XGBoost Classifier| 99.2%    | 96.8%     | 92.6%  | 91.0%    |
+| Neural Network     | 98.6%    | 94.7%     | 90.3%  | 88.3%    |
 
 > Replace these values with actual results from your models.
 
@@ -97,10 +97,10 @@ The project uses the [Kaggle Credit Card Fraud Detection dataset](https://www.ka
 ## 👩‍💻 Author
 
 **Ishita Verma**  
-Aspiring Data Scientist | Machine Learning Enthusiast  
+Aspiring Data Scientist | Machine Learning Enthusiast  | SDE 
 
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/)
+
+
 
 ---
 
