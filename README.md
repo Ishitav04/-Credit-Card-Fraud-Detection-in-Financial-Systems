@@ -9,7 +9,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - **Output**: Classification of transactions as **fraudulent (1)** or **genuine (0)**.
 - **Machine Learning Models Used**:
   - XGBoost Classifier
-  - Feed Forward Neural Network (FFNN)
+  
 
 ## 🧠 Key Features
 
@@ -72,7 +72,7 @@ The project uses the [Kaggle Credit Card Fraud Detection dataset](https://www.ka
 | Model              | Accuracy | Precision | Recall | F1 Score |
 |-------------------|----------|-----------|--------|----------|
 | XGBoost Classifier| 99.2%    | 96.8%     | 92.6%  | 91.0%    |
-| Neural Network     | 98.6%    | 94.7%     | 90.3%  | 88.3%    |
+
 
 
 
