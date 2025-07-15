@@ -1,6 +1,3 @@
-# -Credit-Card-Fraud-Detection-in-Financial-Systems
-Integrated Fraud Prevention and Detection in Financial Systems
-
 
 # 💳 Credit Card Fraud Detection using Machine Learning
 
